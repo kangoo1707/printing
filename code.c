@@ -16,3 +16,7 @@ void print3() {
 void print4() {
 	printf("4");
 }
+
+void print5() {
+	printf("tagged 1.0");
+}
