@@ -12,3 +12,7 @@ void print2() {
 void print3() {
 	printf("master");
 }
+
+void print4() {
+	printf("4");
+}
