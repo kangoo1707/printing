@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 void print6() {
-	printf("using a remote repo");
+	printf("using a remote repository");
 }
