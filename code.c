@@ -8,3 +8,7 @@ void print2() {
 	printf("2");
 	printf("release1");
 }
+
+void print3() {
+	printf("master");
+}
