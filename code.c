@@ -2,9 +2,6 @@
 
 void print6() {
 	printf("using a remote repository");
-}
-
-void release() {
-        printf("now, in release mode");
+	printf("now merging and deleting release branch");	
 }
 
