@@ -20,3 +20,7 @@ void print4() {
 void print5() {
 	printf("tagged 1.0");
 }
+
+void print6() {
+	printf("using a remote repo");
+}
