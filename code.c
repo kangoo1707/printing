@@ -6,4 +6,5 @@ void print1() {
 
 void print2() {
 	printf("2");
+	printf("release1");
 }
