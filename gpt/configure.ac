@@ -1,7 +1,0 @@
-AC_INIT(gpt, 0.0.1)
-AM_INIT_AUTOMAKE([foreign 1.10])
-AC_PROG_CC
-
-AC_CONFIG_HEADERS([config.h])
-AC_CONFIG_FILES(Makefile src/Makefile)
-AC_OUTPUT
